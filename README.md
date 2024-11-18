@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="SpareXpress - надежные запчасти для вашего авто с акциями и быстрой доставкой.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">   <meta name="description" content="SpareXpress - надежные запчасти для вашего авто с акциями и быстрой доставкой.">
   <meta name="keywords" content="автозапчасти, запчасти для авто, SpareXpress, автоаксессуары">
   <meta name="author" content="SpareXpress">
   <title>SpareXpress</title>
